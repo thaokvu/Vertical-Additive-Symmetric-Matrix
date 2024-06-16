@@ -1,6 +1,5 @@
-Author : Ly Vu
-Program Purpose : reads in matrixes from a file, analyze its values for vertical additive symmetry (V.A.S).
-It will sort that data and display the resulting array alongside a message that indicates whether the given data demonstrates V.A.S*/
+// Program Purpose: reads in matrixes from a file, analyzes its values for vertical additive symmetry (V.A.S).
+It will sort that data and display the resulting array alongside a message that indicates whether the given data demonstrates V.A.S//
 
 #include<iostream>
 #include<fstream>
