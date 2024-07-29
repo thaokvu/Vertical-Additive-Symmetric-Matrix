@@ -1,7 +1,7 @@
 ## What is a Matrix?
-**Matrixes:** A 2-dimensional (2D) array represented as a row x column data structure
+- **Matrixes:** A 2-dimensional (2D) array represented as a row x column data structure
 
-**Vertical Additive Symmetric Matrix:** A  matrix of integer numbers is defined to exhibit vertical additive symmetry if the sum of the numbers in the columns of the matrix exhibits vertical symmetry. In a list with an odd number of columns, the middle column is considered symmetric with itself.
+- **Vertical Additive Symmetric Matrix:** A  matrix of integer numbers is defined to exhibit vertical additive symmetry if the sum of the numbers in the columns of the matrix exhibits vertical symmetry. In a list with an odd number of columns, the middle column is considered symmetric with itself.
 
 
 ## Objective
