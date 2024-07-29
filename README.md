@@ -1,3 +1,5 @@
+# Vertical Additive Symmetric Matrix Checker
+
 ## What is a Matrix?
 - **Matrixes:** A 2-dimensional (2D) array represented as a row x column data structure
 
